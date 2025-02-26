@@ -5,7 +5,7 @@ heterogeneity in cancers: Analysis of Multiregion sequencing data
 ![Simulation Preview](images/snapshot.png)
 
 ## 📌 Overview
-This repository contains the **MATLAB** code and **data analysis scripts** used in our paper:
+This repository contains the **MATLAB**, **C++** code and **data analysis scripts** used in our paper:
 
 > **"Statistical Mechanical theory for spatio-temporal evolution of Intra-tumor
 heterogeneity in cancers: Analysis of Multiregion sequencing data"**  
