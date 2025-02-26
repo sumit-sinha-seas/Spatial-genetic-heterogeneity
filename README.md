@@ -10,7 +10,8 @@ This repository contains the **MATLAB**, **C++** code and **data analysis script
 > **"Statistical Mechanical theory for spatio-temporal evolution of Intra-tumor
 heterogeneity in cancers: Analysis of Multiregion sequencing data"**  
 > **Authors:** Sumit Sinha, Xin Li, and D. Thirumalai  
-> **Published in:** *arXiv:2202.10595*  
+> **Published in:** *arXiv:2202.10595*
+> **DOI:** [arXiv:2202.10595](https://arxiv.org/abs/2202.10595)  
 
 This repository contains the MATLAB/C++ code, data analysis scripts used to develop and validate a statistical mechanical model for intra-tumor heterogeneity (ITH). The model predicts spatial and temporal genetic variations within a single tumor and is validated against multi-region sequencing (M-Seq) data for skin, lung, and kidney cancers..
 
